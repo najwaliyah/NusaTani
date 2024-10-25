@@ -1,2 +1,3 @@
 NusaTani is a digital application designed to empower farmers in Indonesia by providing access to technology. The app offers solutions to improve productivity and sustainability of agricultural businesses. Through NusaTani, farmers can get education on modern agricultural technology, sell their products directly to buyers, and access various support services such as consultation and training. NusaTani also acts as a bridge between farmers and buyers to help improve farmers' welfare.
+
 Click to prototype: https://www.figma.com/proto/PMpPRQPwZmEpBbVV1AoNUM/SPONTAN?page-id=0%3A1&node-id=2-7&node-type=canvas&viewport=645%2C499%2C0.76&t=cDFgefVCibaAryKt-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A7
